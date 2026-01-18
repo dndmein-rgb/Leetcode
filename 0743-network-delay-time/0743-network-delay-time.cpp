@@ -16,7 +16,7 @@ public:
             for(auto&[nei,w]:adj[node]){
                 if(dist[nei]>time+w){
                     dist[nei]=time+w;
-                    pq.push({dist[node],nei});
+                    pq.push({dist[nei],nei});
                 }
             }
         }
