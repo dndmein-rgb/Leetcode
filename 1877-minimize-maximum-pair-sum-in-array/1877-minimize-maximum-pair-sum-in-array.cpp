@@ -1,19 +1,14 @@
 class Solution {
 public:
     int minPairSum(vector<int>& nums) {
-       int n=nums.size() ;
-       int maxSum=0;
-       priority_queue<int,vector<int>,greater<int>>minH;
-       priority_queue<int>maxH;
-       for(int &num:nums){
-        minH.push(num);
-        maxH.push(num);
-       }
-       while(minH.size()>n/2){
-        maxSum=max(maxSum,minH.top()+maxH.top());
-        minH.pop();
-        maxH.pop();
-       }
-       return maxSum;
+        sort(nums.begin(),nums.end());
+        int i=0,j=nums.size()-1;
+        int maxSum=0;
+        while(i<j){
+            maxSum=max(maxSum,nums[j]+nums[i]);
+            i++;
+            j--;
+        }
+        return maxSum;
     }
 };
