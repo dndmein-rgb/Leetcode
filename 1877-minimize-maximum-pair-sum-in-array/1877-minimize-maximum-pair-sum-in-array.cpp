@@ -9,7 +9,7 @@ public:
         minH.push(num);
         maxH.push(num);
        }
-       while(!minH.empty()&&!maxH.empty()){
+       while(minH.size()>n/2){
         maxSum=max(maxSum,minH.top()+maxH.top());
         minH.pop();
         maxH.pop();
