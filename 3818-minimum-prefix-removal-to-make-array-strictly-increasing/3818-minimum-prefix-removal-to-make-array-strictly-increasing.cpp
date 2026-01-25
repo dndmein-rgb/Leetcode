@@ -2,11 +2,10 @@ class Solution {
 public:
     int minimumPrefixLength(vector<int>& nums) {
        int n=nums.size() ;
-        int lastIdx=-1;
-        for(int i=0;i<n-1;i++){
-            if(nums[i]>=nums[i+1])lastIdx=i;
+        int i=n-1;
+        while(i>0 && nums[i-1]<nums[i]){
+            i--;
         }
-        // cout<<lastIdx;
-        return lastIdx==-1?0:lastIdx+1;
+        return i;
     }
 };
