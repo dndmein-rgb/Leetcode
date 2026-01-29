@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/dndmein-rgb/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/dndmein-rgb/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dndmein-rgb/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/dndmein-rgb/Leetcode/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dndmein-rgb/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dndmein-rgb/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/dndmein-rgb/Leetcode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dndmein-rgb/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dndmein-rgb/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/dndmein-rgb/Leetcode/tree/master/0743-network-delay-time) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dndmein-rgb/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Binary Search
 |  |
 | ------- |
