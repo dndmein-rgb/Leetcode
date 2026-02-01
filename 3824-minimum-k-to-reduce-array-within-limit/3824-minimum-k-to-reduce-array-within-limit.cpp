@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool canReduce(vector<int>&nums,long long k){
-        if(k==0)return false;
-        long long totalOps=0,limit=k*k;
+typedef long long ll;
+    bool canReduce(long long k,vector<int>&nums){
+        ll limit=k*k,totalOps=0;
         for(int num:nums){
             totalOps+=(num+k-1)/k;
             if(totalOps>limit)return false;
@@ -10,16 +10,15 @@ public:
         return totalOps<=limit;
     }
     int minimumK(vector<int>& nums) {
-       long long low=1,high=100000;
-        int result=high;
+        int low=1,high=100000;
+        int result=nums[0];
         while(low<=high){
-            long long mid=low +(high-low)/2;
-            if(canReduce(nums,mid)){
+            ll mid=low+(high-low)/2;
+            if(canReduce(mid,nums)){
                 result=mid;
                 high=mid-1;
             }
-            else{
-            low=mid+1;}
+            else low=mid+1;
         }
         return result;
     }
