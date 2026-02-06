@@ -8,9 +8,8 @@ public:
         int j = 0;
 
         for (int i = 0; i < n; i++) {
-            while (j < n && (long long)nums[j] <= (long long)nums[i] * k) {
-                j++;
-            }
+            long long limit=(long long)nums[i]*k;
+            int j=upper_bound(nums.begin()+1,nums.end(),limit)-nums.begin();
             ans = min(ans, n - (j - i));
         }
 
