@@ -1,20 +1,18 @@
 class Solution {
 public:
     vector<long long> mergeAdjacent(vector<int>& nums) {
-        vector<long long> st;
-
-        for (int x : nums) {
-            st.push_back(x);
-
-            // keep merging as long as the last two are equal
-            while (st.size() >= 2 && st.back() == st[st.size() - 2]) {
-                long long val = st.back();
-                st.pop_back();
-                st.pop_back();
-                st.push_back(val * 2);
+        int n=nums.size();
+        vector<long long >ans;
+        ans.push_back(nums[0]);
+        for(int i=1;i<n;i++){
+            long long val=nums[i];
+            while(ans.size()>0 && ans.back()==val){
+                ans.pop_back();
+                val=val*2;
             }
+            ans.push_back(val);
         }
+        return ans;
 
-        return st;
     }
 };
