@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/dndmein-rgb/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dndmein-rgb/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/dndmein-rgb/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
@@ -245,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dndmein-rgb/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
