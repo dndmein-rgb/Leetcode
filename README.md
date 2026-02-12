@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 ## Linked List
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 ## Two Pointers
 |  |
 | ------- |
