@@ -16,7 +16,7 @@ public:
                     }
                 }
                     if(flag){
-                        maxi=max(maxi,target);
+                        maxi=max(maxi,j-i+1);
                     }
                 
                 
