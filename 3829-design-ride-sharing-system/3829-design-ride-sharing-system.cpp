@@ -1,38 +1,37 @@
 class RideSharingSystem {
 public:
-    queue<int>driver,rider;
-    unordered_set<int>st; //rider
+queue<int>driver,rider;
+unordered_set<int>riderSet;
     RideSharingSystem() {
         
     }
     
     void addRider(int riderId) {
         rider.push(riderId);
-        st.insert(riderId);
+        riderSet.insert(riderId);
     }
     
     void addDriver(int driverId) {
-        driver.push(driverId);
-        
+       driver.push(driverId);
     }
     
     vector<int> matchDriverWithRider() {
-        while(!rider.empty() && !st.count(rider.front())){
+        while(!rider.empty() && riderSet.find(rider.front())==riderSet.end()){
             rider.pop();
         }
-        if(driver.empty()||rider.empty()){
+        if(rider.empty() || driver.empty()){
             return {-1,-1};
         }
-        int d=driver.front();
-        int r=rider.front();
+        int D=driver.front();
         driver.pop();
+        int R=rider.front();
         rider.pop();
-        st.erase(r);
-            return {d,r};
+        return {D,R};
     }
     
     void cancelRider(int riderId) {
-        if(st.count(riderId))st.erase(riderId);
+        if(riderSet.count(riderId))
+        riderSet.erase(riderId);
     }
 };
 
