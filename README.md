@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/dndmein-rgb/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/dndmein-rgb/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Matrix
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dndmein-rgb/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/dndmein-rgb/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Union-Find
 |  |
 | ------- |
