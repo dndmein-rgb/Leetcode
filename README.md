@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
+| [3829-design-ride-sharing-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
+| [3829-design-ride-sharing-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Linked List
 |  |
 | ------- |
@@ -307,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/dndmein-rgb/Leetcode/tree/master/0401-binary-watch) |
+## Queue
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3829-design-ride-sharing-system) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
