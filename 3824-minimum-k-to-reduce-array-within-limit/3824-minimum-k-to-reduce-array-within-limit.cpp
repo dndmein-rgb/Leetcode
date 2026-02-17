@@ -1,25 +1,25 @@
 class Solution {
 public:
-typedef long long ll;
-    bool canReduce(long long k,vector<int>&nums){
-        ll limit=k*k,totalOps=0;
+    int countOperations(vector<int>&nums,int mid){
+        int operations=0;
         for(int num:nums){
-            totalOps+=(num+k-1)/k;
-            if(totalOps>limit)return false;
+            operations+=(num+mid-1)/mid;
         }
-        return totalOps<=limit;
+        return operations;
     }
     int minimumK(vector<int>& nums) {
-        int low=1,high=100000;
-        int result=nums[0];
-        while(low<=high){
-            ll mid=low+(high-low)/2;
-            if(canReduce(mid,nums)){
-                result=mid;
-                high=mid-1;
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
+        long long  l = 1, r = 100000;
+        int ans=nums[0];
+        while (l<=r){
+            long long  mid=l+(r-l)/2;
+            if(countOperations(nums,mid)<=mid*mid){
+                ans=mid;
+                r=mid-1;
             }
-            else low=mid+1;
+            else l=mid+1;
         }
-        return result;
+        return ans;
     }
 };
