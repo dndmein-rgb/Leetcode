@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-smallest-all-ones-multiple](https://github.com/dndmein-rgb/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/dndmein-rgb/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3805-count-caesar-cipher-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/dndmein-rgb/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/dndmein-rgb/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
