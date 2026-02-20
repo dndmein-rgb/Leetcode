@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/dndmein-rgb/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/dndmein-rgb/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dndmein-rgb/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
 ## Sliding Window
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/dndmein-rgb/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
