@@ -1,33 +1,29 @@
 class Solution {
 public:
-    int minArrivalsToDiscard(vector<int>& arrivals, int w, int m) {
-        map<int, int> mp;
-        int n = arrivals.size();
-        int count = 0;
-        vector<int> dis(n, 0);
+    int minArrivalsToDiscard(vector<int>& a, int w, int m) {
+        unordered_map<int,int> mp;
+        int n = a.size();
+        int discards = 0;
 
-        for (int i = 0; i < w; i++) {
-            mp[arrivals[i]]++;
-            if (mp[arrivals[i]] > m) {
-                dis[i] = 1;
-                mp[arrivals[i]]--;
-                count++;
+        vector<bool> kept(n, false);
+
+        for(int j = 0; j < n; j++) {
+
+            // Remove element that falls out of window
+            if(j - w >= 0 && kept[j - w]) {
+                mp[a[j - w]]--;
+            }
+
+            // Try keeping current
+            if(mp[a[j]] < m) {
+                mp[a[j]]++;
+                kept[j] = true;
+            } else {
+                discards++;
+                kept[j] = false;  // explicitly discard
             }
         }
 
-        for (int i = w; i < n; i++) {
-            mp[arrivals[i]]++;
-            if (mp[arrivals[i - w]] > 0 && dis[i - w] == 0) {
-                mp[arrivals[i - w]]--;
-            }
-
-            if (mp[arrivals[i]] > m) {
-                mp[arrivals[i]]--;
-                dis[i] = 1;
-                count++;
-            }
-        }
-
-        return count;
+        return discards;
     }
 };
