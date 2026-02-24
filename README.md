@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/dndmein-rgb/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
