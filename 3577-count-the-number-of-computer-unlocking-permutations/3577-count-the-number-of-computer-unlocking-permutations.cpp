@@ -1,22 +1,18 @@
 class Solution {
 public:
-const int mod=1e9+7;
-long long factorial(int n) {
-    long long ans = 1;
-    for (int i = 2; i <= n; i++)
-        ans =( ans*i)%mod;
-    return ans;
-}
+    int mod = 1e9+7;
     int countPermutations(vector<int>& complexity) {
-        int n=complexity.size();
-        vector<bool>decrypt(n,false);
-        int smallest=complexity[0];
-        for(int i=1;i<n;i++){
-            if(complexity[i]>smallest)decrypt[i]=true;
+        int val = complexity[0];
+        int n = complexity.size();
+        for(int i=1; i<n; i++) {
+            if(complexity[i] <= val) return 0;
         }
-        for(int i=1;i<n;i++){
-            if(decrypt[i]==false)return 0;
+
+        int ans = 1;
+        for(int i=1; i<=n-1; i++) {
+            ans = (ans*1LL*i)%mod;
         }
-        return factorial(n-1)%mod;
+
+        return ans;
     }
 };
