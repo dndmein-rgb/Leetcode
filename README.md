@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0761-special-binary-string) |
 | [0839-similar-string-groups](https://github.com/dndmein-rgb/Leetcode/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dndmein-rgb/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dndmein-rgb/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dndmein-rgb/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dndmein-rgb/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/dndmein-rgb/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dndmein-rgb/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/dndmein-rgb/Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dndmein-rgb/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dndmein-rgb/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dndmein-rgb/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dndmein-rgb/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1646-get-maximum-in-generated-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [3379-transformed-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
