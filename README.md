@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dndmein-rgb/Leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/dndmein-rgb/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dndmein-rgb/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dndmein-rgb/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dndmein-rgb/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/dndmein-rgb/Leetcode/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dndmein-rgb/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dndmein-rgb/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Minimum Spanning Tree
 |  |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/dndmein-rgb/Leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
