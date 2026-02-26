@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3379-transformed-array) |
+| [3453-separate-squares-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3453-separate-squares-i) |
 | [3457-eat-pizzas](https://github.com/dndmein-rgb/Leetcode/tree/master/3457-eat-pizzas) |
 | [3488-closest-equal-element-queries](https://github.com/dndmein-rgb/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dndmein-rgb/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dndmein-rgb/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3453-separate-squares-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/dndmein-rgb/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
