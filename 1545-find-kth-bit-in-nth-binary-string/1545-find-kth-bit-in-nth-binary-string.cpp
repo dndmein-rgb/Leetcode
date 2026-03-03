@@ -1,21 +1,21 @@
 class Solution {
 public:
-string inverse(string s){
-    for(char &c:s){
-        c=(c=='0')?'1':'0';
-    }
-    return s;
-}
-string reversed(string s){
-    reverse(s.begin(),s.end());
-    return s;
-}
     char findKthBit(int n, int k) {
-        string s="0";
-        for(int i=2;i<=n;i++){
-            string inverted=inverse(s);
-            s=s+'1'+reversed(inverted);
+        
+        if(n == 1) {
+            return '0';
         }
-        return s[k-1];
+
+        int length = (1 << n) - 1;
+
+        if(k < ceil(length/2.0)) {
+            return findKthBit(n-1, k);
+        } else if(k == ceil(length/2.0)) {
+            return '1';
+        } else {
+            char ch = findKthBit(n-1, length-(k-1)); 
+            return (ch == '0') ? '1' : '0'; 
+        }
+
     }
 };
