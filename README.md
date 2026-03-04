@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/dndmein-rgb/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dndmein-rgb/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dndmein-rgb/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/dndmein-rgb/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/dndmein-rgb/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1646-get-maximum-in-generated-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dndmein-rgb/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/dndmein-rgb/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/dndmein-rgb/Leetcode/tree/master/1895-largest-magic-square) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
