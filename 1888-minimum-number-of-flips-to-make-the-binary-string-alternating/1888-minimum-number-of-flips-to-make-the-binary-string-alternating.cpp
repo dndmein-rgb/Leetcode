@@ -2,22 +2,21 @@ class Solution {
 public:
     int minFlips(string s) {
         int n = s.length();
-        string s1, s2;
-        for (int i = 0; i < 2 * n; i++) {
-            s1 += (i % 2 == 0) ? '0' : '1';
-            s2 += (i % 2 == 0) ? '1' : '0';
-        }
         int i = 0,result=n, result1 = 0, result2 = 0;
         int j = 0;
         while (j < 2 * n) {
-            if (s[j%n] != s1[j])
+            char expectedCharS1=(j%2)?'1':'0';
+            char expectedCharS2=(j%2)?'0':'1';
+            if (s[j%n] != expectedCharS1)
                 result1++;
-            if (s[j%n] != s2[j])
+            if (s[j%n] != expectedCharS2)
                 result2++;
             if (j - i + 1 > n) {
-                if (s[i%n] != s1[i])
+                 expectedCharS1=(i%2)?'1':'0';
+             expectedCharS2=(i%2)?'0':'1';
+                if (s[i%n] != expectedCharS1)
                     result1--;
-                if (s[i%n] != s2[i])
+                if (s[i%n] != expectedCharS2)
                     result2--;
                 i++;
             }
