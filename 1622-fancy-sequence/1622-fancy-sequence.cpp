@@ -8,7 +8,6 @@ public:
     ll add = 0;
     ll mult = 1;
 
-    //Binary Exponentiation for Fermat's Little Theorem -> power(mult, M-2);
     long long power(long long a, long long b) {
         if(b == 0)
             return 1;
