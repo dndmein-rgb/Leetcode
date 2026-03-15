@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1622-fancy-sequence](https://github.com/dndmein-rgb/Leetcode/tree/master/1622-fancy-sequence) |
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3829-design-ride-sharing-system) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/dndmein-rgb/Leetcode/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dndmein-rgb/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/dndmein-rgb/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dndmein-rgb/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
