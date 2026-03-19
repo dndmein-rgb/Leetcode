@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dndmein-rgb/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dndmein-rgb/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dndmein-rgb/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/dndmein-rgb/Leetcode/tree/master/1895-largest-magic-square) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dndmein-rgb/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dndmein-rgb/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/dndmein-rgb/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dndmein-rgb/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/dndmein-rgb/Leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3698-split-array-with-minimum-difference](https://github.com/dndmein-rgb/Leetcode/tree/master/3698-split-array-with-minimum-difference) |
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
