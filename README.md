@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dndmein-rgb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/dndmein-rgb/Leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dndmein-rgb/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/dndmein-rgb/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dndmein-rgb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/dndmein-rgb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
