@@ -1,19 +1,15 @@
 class Solution {
 public:
     long long countCommas(long long n) {
-      long long total_commas = 0;
-        long long threshold = 1000;
-
-        // Loop through each "comma level" (thousands, millions, billions...)
-        // We use a check to prevent threshold overflow if n is near LLONG_MAX
-        while (n >= threshold) {
-            total_commas += (n - threshold + 1);
-            
-            // Check if multiplying by 1000 will overflow before doing it
-            if (threshold > 2e15) break; 
-            threshold *= 1000;
+        long long ans=0,start=1;
+        int commas=0;
+        while(start<=n){
+            long long end=start*1000-1;
+            long long count=max(0LL,min(n,end)-start+1);
+            ans+=count*commas;
+            start*=1000;
+            commas++;
         }
-
-        return total_commas;
+        return ans;
     }
 };
