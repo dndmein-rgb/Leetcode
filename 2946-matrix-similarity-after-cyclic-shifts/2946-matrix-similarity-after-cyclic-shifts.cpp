@@ -1,23 +1,27 @@
 class Solution {
 public:
-   bool areSimilar(vector<vector<int>>& mat, int k) {
-        vector<vector<int>> temp = mat;
-        int m = mat.size();
-        int n = mat[0].size();
-        k = k%n;
-        if(k == 0) { 
+    bool areSimilar(vector<vector<int>>& mat, int k) {
+        int n=mat.size();
+        int m=mat[0].size();
+        k=k%m;
+         if(k == 0) { 
             return true;
         }
-      
-        for(int i = 0; i<m; i++) {
-            if(i%2) { 
-                rotate(rbegin(mat[i]), rbegin(mat[i]) + k, rend(mat[i]));
-            } else {
-                rotate(begin(mat[i]), begin(mat[i]) + k, end(mat[i]));
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                int currIdx=j;
+                int finalIdx;
+                if(i%2==0){
+                    finalIdx=(j+k)%m;
+                }
+                else finalIdx=(j-k+m)%m;
+            
+            if(mat[i][currIdx] != mat[i][finalIdx]) {
+                    return false;
+                }
             }
         }
-
-        return temp == mat;
+        return true;
     }
-
 };
