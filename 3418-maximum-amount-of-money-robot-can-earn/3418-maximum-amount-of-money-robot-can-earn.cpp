@@ -7,7 +7,7 @@ public:
     int solve(vector<vector<int>>& coins, int i, int j, int neu) {
         if(i == m-1 && j == n-1) {
             if(coins[i][j] < 0 && neu > 0) {
-                return 0; //neutralize kardiya robber ko
+                return 0; 
             }
 
             return coins[i][j];
@@ -21,10 +21,8 @@ public:
             return t[i][j][neu];
         }
 
-        //Take the current cell value
         int take = coins[i][j] + max(solve(coins, i+1, j, neu), solve(coins, i, j+1, neu));
 
-        //Skip current value if you can
         int skip = INT_MIN;
         if(coins[i][j] < 0 && neu > 0) {
             int skipDown = solve(coins, i+1, j, neu-1);
