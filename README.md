@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3640-trionic-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/dndmein-rgb/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3840-house-robber-v](https://github.com/dndmein-rgb/Leetcode/tree/master/3840-house-robber-v) |
 ## Array
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/dndmein-rgb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/dndmein-rgb/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/dndmein-rgb/Leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3693-climbing-stairs-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3698-split-array-with-minimum-difference](https://github.com/dndmein-rgb/Leetcode/tree/master/3698-split-array-with-minimum-difference) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/dndmein-rgb/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3613-minimize-maximum-component-cost](https://github.com/dndmein-rgb/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/dndmein-rgb/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3613-minimize-maximum-component-cost](https://github.com/dndmein-rgb/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/dndmein-rgb/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
