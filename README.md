@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1622-fancy-sequence](https://github.com/dndmein-rgb/Leetcode/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3829-design-ride-sharing-system) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dndmein-rgb/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1646-get-maximum-in-generated-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/dndmein-rgb/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/dndmein-rgb/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dndmein-rgb/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
