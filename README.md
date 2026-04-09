@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0011-container-with-most-water) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dndmein-rgb/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/dndmein-rgb/Leetcode/tree/master/0839-similar-string-groups) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dndmein-rgb/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0011-container-with-most-water) |
 | [0696-count-binary-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2938-separate-black-and-white-balls](https://github.com/dndmein-rgb/Leetcode/tree/master/2938-separate-black-and-white-balls) |
