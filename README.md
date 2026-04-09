@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/dndmein-rgb/Leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/dndmein-rgb/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3840-house-robber-v](https://github.com/dndmein-rgb/Leetcode/tree/master/3840-house-robber-v) |
+| [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
+| [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3829-design-ride-sharing-system) |
+| [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3829-design-ride-sharing-system) |
+| [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
 ## Linked List
 |  |
 | ------- |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
+| [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
 ## Two Pointers
 |  |
 | ------- |
