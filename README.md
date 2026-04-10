@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/dndmein-rgb/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3871-count-commas-in-range-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/dndmein-rgb/Leetcode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Counting
 |  |
 | ------- |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/dndmein-rgb/Leetcode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Recursion
 |  |
 | ------- |
