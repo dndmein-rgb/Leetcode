@@ -13,7 +13,7 @@ int modpow(ll a,ll b){
 }
     int countVisiblePeople(int n, int pos, int k) {
         vector<ll>fact(n+1,1);
-        for(int i=1;i<=n;i++){
+        for(int i=1;i<n;i++){
             fact[i]=((i%mod)*(fact[i-1]%mod))%mod;
         }
         ll ans=1;
