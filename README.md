@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/dndmein-rgb/Leetcode/tree/master/0839-similar-string-groups) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
