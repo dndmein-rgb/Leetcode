@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-smallest-all-ones-multiple](https://github.com/dndmein-rgb/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/dndmein-rgb/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
