@@ -12,7 +12,7 @@ public:
             }
             mp[nums[j]]++;
              if(sum>=k)minLen=min(minLen,j-i+1);
-            while(sum>=k && i<=j){
+            while(sum>=k){
                 
                 mp[nums[i]]--;
                 if(mp[nums[i]]==0){
