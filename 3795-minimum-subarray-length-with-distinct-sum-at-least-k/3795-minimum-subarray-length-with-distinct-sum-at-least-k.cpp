@@ -22,7 +22,7 @@ public:
                 i++;
                 if(sum>=k)minLen=min(minLen,j-i+1);
             }
-            if(sum>=k)minLen=min(minLen,j-i+1);
+           
             j++;
         }
         return minLen==n+1?-1:minLen;
