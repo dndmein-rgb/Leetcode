@@ -1,33 +1,43 @@
 class Solution {
 public:
     int maximumSum(vector<int>& nums) {
-        vector<int> r[3];
-        for (int x : nums) {
-            r[x % 3].push_back(x);
+        vector<int>zero,one,two;
+        int n=nums.size();
+        for(int num:nums){
+            if(num%3==0)zero.push_back(num);
+            else if(num%3==1)one.push_back(num);
+            else two.push_back(num);
         }
-        for (int i = 0; i < 3; i++) {
-            sort(r[i].rbegin(), r[i].rend());
-        }
-        int ans = 0;
-        // 1+1+1
-        if (r[0].size() >= 3) {
-            ans = max(ans, r[0][0] + r[0][1] + r[0][2]);
-        }
-        // 2+2+2
+        sort(zero.begin(),zero.end(),greater<int>());
+        sort(one.begin(),one.end(),greater<int>());
+        sort(two.begin(),two.end(),greater<int>());
 
-        if (r[1].size() >= 3) {
-            ans = max(ans, r[1][0] + r[1][1] + r[1][2]);
+        int maxSum=0;
+        if(zero.size()>=3){
+            int currSum=0;
+            for(int i=0;i<3;i++){
+                currSum+=zero[i];
+            }
+            maxSum=max(maxSum,currSum);
         }
-        // 3+3+3
-        if (r[2].size() >= 3) {
-            ans = max(ans, r[2][0] + r[2][1] + r[2][2]);
+        if(one.size()>=3){
+            int currSum=0;
+            for(int i=0;i<3;i++){
+                currSum+=one[i];
+            }
+            maxSum=max(maxSum,currSum);
         }
-
-        // 0+1+2;
-        if (!r[0].empty() && !r[1].empty() && !r[2].empty()) {
-            ans = max(ans, r[0][0] + r[1][0] + r[2][0]);
+        if(two.size()>=3){
+            int currSum=0;
+            for(int i=0;i<3;i++){
+                currSum+=two[i];
+            }
+            maxSum=max(maxSum,currSum);
         }
-
-        return ans;
+        if(!zero.empty() && !one.empty() && !two.empty()){
+            int currSum=zero[0]+one[0]+two[0];
+            maxSum=max(maxSum,currSum);
+        }
+        return maxSum;
     }
 };
