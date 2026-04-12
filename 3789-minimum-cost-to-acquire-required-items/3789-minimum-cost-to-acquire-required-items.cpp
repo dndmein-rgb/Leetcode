@@ -1,23 +1,16 @@
 class Solution {
 public:
-    long long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
-        long long minCost=1e18;
-        //case 1
-        long long  totalCost=(long)cost1*need1+(long)cost2*need2;
-        minCost=min(minCost,totalCost);
-        //case 2
-        totalCost=max(need1,need2)*(long)costBoth;
-         minCost=min(minCost,totalCost);
+    long long minimumCost(long long cost1, long long cost2, long long costBoth, long long need1, long long need2) {
+        long long totalCost=1e9;
+        totalCost=(cost1*need1)+(cost2*need2);
 
-         //case 3
-         if(need1<need2){
-            totalCost=costBoth*(long)need1+(need2-need1)*(long)cost2;
-              minCost=min(minCost,totalCost);
-         }
-         else {
-            totalCost=costBoth*(long)need2+(need1-need2)*(long)cost1;
-            minCost=min(minCost,totalCost);
-         }
-         return minCost;
+        totalCost=min(totalCost,(max(need1,need2)*costBoth));
+
+        if(need1<need2){
+            totalCost=min(totalCost,(need1*costBoth+(need2-need1)*cost2));
+        }else{
+             totalCost=min(totalCost,(need2*costBoth+(need1-need2)*cost1));
+        }
+        return totalCost;
     }
 };
