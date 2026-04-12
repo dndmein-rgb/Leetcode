@@ -1,4 +1,3 @@
-
 vector<bool> isPrime;
 
 vector<int> setPrimes() {
@@ -9,16 +8,14 @@ vector<int> setPrimes() {
 
     for (int i = 2; i * i < nMax; ++i) {
         if (!isPrime[i]) continue;
-        for (int j = i + i; j < nMax; j += i) {
+        for (int j = i * i; j < nMax; j += i) {
             isPrime[j] = false;
         }
     }
 
     vector<int> primes;
     for (int i = 2; i < nMax; ++i) {
-        if (isPrime[i]) {
-            primes.push_back(i);
-        }
+        if (isPrime[i]) primes.push_back(i);
     }
     return primes;
 }
@@ -30,15 +27,12 @@ public:
     int largestPrime(int n) {
         if (n < 2) return 0;
 
-        int sum = 0;
-        int res = 0;
+        int sum = 0, res = 0;
 
         for (int p : primes) {
             sum += p;
             if (sum > n) break;
-            if (isPrime[sum]) {
-                res = sum;
-            }
+            if (isPrime[sum]) res = sum;
         }
         return res;
     }
