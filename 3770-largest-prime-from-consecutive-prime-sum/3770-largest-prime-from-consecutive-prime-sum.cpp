@@ -1,27 +1,45 @@
+
+vector<bool> isPrime;
+
+vector<int> setPrimes() {
+    int nMax = 500001;
+    isPrime.assign(nMax, true);
+
+    isPrime[0] = isPrime[1] = false;
+
+    for (int i = 2; i * i < nMax; ++i) {
+        if (!isPrime[i]) continue;
+        for (int j = i + i; j < nMax; j += i) {
+            isPrime[j] = false;
+        }
+    }
+
+    vector<int> primes;
+    for (int i = 2; i < nMax; ++i) {
+        if (isPrime[i]) {
+            primes.push_back(i);
+        }
+    }
+    return primes;
+}
+
+vector<int> primes = setPrimes();
+
 class Solution {
 public:
-
     int largestPrime(int n) {
-        if(n==1)return false;
-        if(n>=398771)return 398771;
-        vector<bool>isPrime(n+1,true);
-        isPrime[0]=false;
-        isPrime[1]=false;
-        for(int i=2;i*i<=n;i++){
-            if(isPrime[i]){
-                for(int j=i*i ;j<=n;j+=i){
-                    isPrime[j]=false;
-                }
+        if (n < 2) return 0;
+
+        int sum = 0;
+        int res = 0;
+
+        for (int p : primes) {
+            sum += p;
+            if (sum > n) break;
+            if (isPrime[sum]) {
+                res = sum;
             }
         }
-        int sum=0,ans=0;
-       for(int i=2;i<=n;i++){
-        if(isPrime[i]){
-            sum+=i;
-            if(sum>n)break;
-            if(isPrime[sum])ans=sum;
-        }
-       }
-        return ans;
+        return res;
     }
 };
