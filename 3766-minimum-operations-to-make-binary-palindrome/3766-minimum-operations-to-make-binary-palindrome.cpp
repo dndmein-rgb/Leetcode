@@ -1,28 +1,26 @@
 class Solution {
 public:
-bool isPal(int n){
-    string s="";
-    while(n){
-        s.push_back((n&1)+'0');
-        n>>=1;
+bool isPal(int x){
+    string s;
+    while(x){
+        s+=((x&1 )+'1');
+        x>>=1;
     }
     string b=s;
-    reverse(b.begin(),b.end());
-    return b==s;
+    reverse(s.begin(),s.end());
+    return s==b;
 }
     vector<int> minOperations(vector<int>& nums) {
-        vector<int> pals;
-        for (int i = 0; i < 5001; i++) {
-            if (isPal(i))
-                pals.push_back(i);
+        int n=nums.size();
+        vector<int>palindromes;
+        for(int i=0;i<5001;i++){
+            if(isPal(i))palindromes.push_back(i);
         }
-        vector<int> ans;
-        for (int num : nums) {
-            int best = 1e9;
-            for (int x : pals) {
-                best = min(best, abs(num - x));
+        vector<int>ans(n,INT_MAX);
+        for(int i=0;i<n;i++){
+            for(int x:palindromes){
+                ans[i]=min(ans[i],abs(nums[i]-x));
             }
-            ans.push_back(best);
         }
         return ans;
     }
