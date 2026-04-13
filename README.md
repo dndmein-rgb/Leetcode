@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/dndmein-rgb/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/dndmein-rgb/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3815-design-auction-system](https://github.com/dndmein-rgb/Leetcode/tree/master/3815-design-auction-system) |
 | [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/dndmein-rgb/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/dndmein-rgb/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/dndmein-rgb/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dndmein-rgb/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/dndmein-rgb/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
