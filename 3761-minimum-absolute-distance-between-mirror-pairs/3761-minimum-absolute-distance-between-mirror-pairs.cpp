@@ -1,10 +1,13 @@
 class Solution {
 public:
 int rev(int n){
-    string s=to_string(n);
-    reverse(s.begin(),s.end());
-    n=stoi(s);
-    return n;
+    int num=0;
+    while(n){
+        int digit=n%10;
+        n/=10;
+        num=num*10+digit;
+    }
+    return num;
 }
     int minMirrorPairDistance(vector<int>& nums) {
         unordered_map<int,int>mp;
