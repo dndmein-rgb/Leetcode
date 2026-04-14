@@ -1,18 +1,15 @@
 class Solution {
 public:
     long long maxProduct(vector<int>& nums) {
-       priority_queue<int>pq;
-       for(int num:nums) {
-        pq.push(abs(num));
-       }
-       long long product=1;
-       int count=2;
-       while(count){
-        int front=pq.top();
-    product*=front;
-    pq.pop();
-    count--;
-       }
-       return product*100000;
+        long long max1=0,max2=0;
+        for(int num:nums){
+            if(abs(num)>max1){
+                max2=max1;
+                max1=abs(num);
+            }else if(abs(num)>max2){
+                max2=abs(num);
+            }
+        }
+        return max1*max2*100000;
     }
 };
