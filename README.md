@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3724-minimum-operations-to-transform-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/dndmein-rgb/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3724-minimum-operations-to-transform-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/dndmein-rgb/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
