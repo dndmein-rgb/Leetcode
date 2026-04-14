@@ -1,9 +1,7 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-       if(num==1) {
-        return sum>=10? "": to_string(sum);
-       }
+      
        string s;
        while(sum>=9&& num){
         s.push_back('9');
