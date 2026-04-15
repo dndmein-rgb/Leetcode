@@ -11,13 +11,13 @@ public:
         for(int i=n-2;i>=0;i--){
             dec[i]=dec[i+1] && (nums[i]>nums[i+1]);
         }
-        vector<int>pref(n,0);
+        vector<long long >pref(n,0);
         pref[0]=nums[0];
-        long long total=nums[0];
+       
         for(int i=1;i<n;i++){
             pref[i]=pref[i-1]+nums[i];
-            total+=nums[i];
         }
+         long long total=pref[n-1];
         long long minD=LLONG_MAX;
         bool found=false;
         for(int i=0;i<n;i++){
