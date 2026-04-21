@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0761-special-binary-string) |
 | [0839-similar-string-groups](https://github.com/dndmein-rgb/Leetcode/tree/master/0839-similar-string-groups) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/dndmein-rgb/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dndmein-rgb/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/dndmein-rgb/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dndmein-rgb/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/dndmein-rgb/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dndmein-rgb/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0799-champagne-tower](https://github.com/dndmein-rgb/Leetcode/tree/master/0799-champagne-tower) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/dndmein-rgb/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/dndmein-rgb/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/dndmein-rgb/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/dndmein-rgb/Leetcode/tree/master/0839-similar-string-groups) |
 | [0874-walking-robot-simulation](https://github.com/dndmein-rgb/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/dndmein-rgb/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dndmein-rgb/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1200-minimum-absolute-difference](https://github.com/dndmein-rgb/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dndmein-rgb/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dndmein-rgb/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/dndmein-rgb/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dndmein-rgb/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dndmein-rgb/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dndmein-rgb/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dndmein-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/dndmein-rgb/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dndmein-rgb/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/dndmein-rgb/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1622-fancy-sequence](https://github.com/dndmein-rgb/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
