@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/dndmein-rgb/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/dndmein-rgb/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/dndmein-rgb/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0799-champagne-tower](https://github.com/dndmein-rgb/Leetcode/tree/master/0799-champagne-tower) |
 | [1012-numbers-with-repeated-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/dndmein-rgb/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
