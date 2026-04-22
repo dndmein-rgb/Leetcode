@@ -15,7 +15,7 @@ string substract_one(string& s){
             i--;
         }
     }
-    if(s[0]=='0' && s.size()>1)return s.substr('1');
+    if(s[0]=='0' && s.size()>1)return s.substr(1);
     return s;
 }
 int f(string& s,int idx,bool tight, int sum){
