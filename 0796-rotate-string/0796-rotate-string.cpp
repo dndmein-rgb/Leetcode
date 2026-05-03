@@ -5,7 +5,7 @@ public:
 
         string temp=s+s;
 
-        return temp.find(goal)!=-1;
+        return temp.find(goal)!=string::npos;
         
     }
 };
