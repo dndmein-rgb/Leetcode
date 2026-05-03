@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/dndmein-rgb/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0796-rotate-string) |
 | [0839-similar-string-groups](https://github.com/dndmein-rgb/Leetcode/tree/master/0839-similar-string-groups) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/dndmein-rgb/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dndmein-rgb/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/dndmein-rgb/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
