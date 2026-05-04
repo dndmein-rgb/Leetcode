@@ -9,10 +9,10 @@ public:
         }
 
          for(int i=0;i<n;i++){
-            for(int j=0;j<n/2;j++){
-                 swap(mat[i][j],mat[i][n-j-1]);
-                // reverse(mat[i].begin(),mat[i].end());
-            }
+           
+                 //swap(mat[i][j],mat[i][n-j-1]);
+                 reverse(mat[i].begin(),mat[i].end());
+            
         }
     }
 };
