@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/dndmein-rgb/Leetcode/tree/master/0061-rotate-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/dndmein-rgb/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dndmein-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/0696-count-binary-substrings) |
