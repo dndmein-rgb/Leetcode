@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dndmein-rgb/Leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Graph Theory
 |  |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/dndmein-rgb/Leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/dndmein-rgb/Leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3713-longest-balanced-substring-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dndmein-rgb/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -728,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Rolling Hash
 |  |
