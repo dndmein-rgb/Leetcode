@@ -5,11 +5,9 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++){
            if(mp.count(target-nums[i])){
-            
             return {i,mp[target-nums[i]]};
            }
            mp[nums[i]]=i;
-           cout<<mp[nums[i]]<<" "<<i<<endl;
         }
         return {0,0};
     }
