@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dndmein-rgb/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/dndmein-rgb/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dndmein-rgb/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/dndmein-rgb/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dndmein-rgb/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/dndmein-rgb/Leetcode/tree/master/0217-contains-duplicate) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dndmein-rgb/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dndmein-rgb/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dndmein-rgb/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
