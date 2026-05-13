@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/dndmein-rgb/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/dndmein-rgb/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dndmein-rgb/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/dndmein-rgb/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dndmein-rgb/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/dndmein-rgb/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dndmein-rgb/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dndmein-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dndmein-rgb/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0567-permutation-in-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dndmein-rgb/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
