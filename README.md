@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/dndmein-rgb/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/dndmein-rgb/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/dndmein-rgb/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dndmein-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dndmein-rgb/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dndmein-rgb/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dndmein-rgb/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dndmein-rgb/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/dndmein-rgb/Leetcode/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
@@ -807,4 +811,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dndmein-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
