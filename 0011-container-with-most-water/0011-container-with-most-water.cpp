@@ -5,11 +5,10 @@ public:
         int i=0,j=n-1;
         int maxArea=0;
         while(i<j){
-            int currArea=(j-i)*min(height[i],height[j]);
-            maxArea=max(maxArea,currArea);
-            if(height[i]>height[j]){
-                j--;
-            }else i++;
+            int area=min(height[i],height[j])*(j-i);
+            maxArea=max(area,maxArea);
+            if(height[i]>height[j])j--;
+            else i++;
         }
         return maxArea;
     }
