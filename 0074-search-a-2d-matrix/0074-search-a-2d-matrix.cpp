@@ -6,7 +6,7 @@ public:
         int i=0,j=m*n-1;
         while(i<=j){
             int mid=i+(j-i)/2;
-            int r=mid/n-1;
+            int r=mid/m;
             int c=mid%m;
             if(matrix[r][c]==target)return true;
             else if(matrix[r][c]<target)i++;
