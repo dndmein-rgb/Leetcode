@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dndmein-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dndmein-rgb/Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dndmein-rgb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dndmein-rgb/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dndmein-rgb/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dndmein-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dndmein-rgb/Leetcode/tree/master/0217-contains-duplicate) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dndmein-rgb/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dndmein-rgb/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dndmein-rgb/Leetcode/tree/master/0155-min-stack) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dndmein-rgb/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/dndmein-rgb/Leetcode/tree/master/2751-robot-collisions) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dndmein-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dndmein-rgb/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dndmein-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/dndmein-rgb/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0396-rotate-function](https://github.com/dndmein-rgb/Leetcode/tree/master/0396-rotate-function) |
