@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dndmein-rgb/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dndmein-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/dndmein-rgb/Leetcode/tree/master/0396-rotate-function) |
+| [0704-binary-search](https://github.com/dndmein-rgb/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/dndmein-rgb/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dndmein-rgb/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dndmein-rgb/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/dndmein-rgb/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dndmein-rgb/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/dndmein-rgb/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
