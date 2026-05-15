@@ -9,8 +9,8 @@ public:
             int r=mid/m;
             int c=mid%m;
             if(matrix[r][c]==target)return true;
-            else if(matrix[r][c]<target)i++;
-            else j--;
+            else if(matrix[r][c]<target)i=mid+1;
+            else j=mid-1;
         }
         return false;
     }
