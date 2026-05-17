@@ -1,20 +1,22 @@
 class Solution {
 public:
-int n;
-bool solve(long long i, vector<int>&arr,vector<bool>&vis){
-    
-    if(arr[i]==0)return true;
-    if(vis[i])return false;
-    vis[i]=true;
-    bool left=false;
-    if(i-arr[i]>=0)left=solve(i-arr[i],arr,vis);
-    bool right=false;
-    if(i+arr[i]<n)right=solve(i+arr[i],arr,vis);
-    return left||right;
-}
+    int n;
+
+    bool dfs(vector<int>& arr, int i) {
+        if(i < 0 || i >= n || arr[i] < 0) {
+            return false;
+        }
+        if(arr[i] == 0)
+            return true;
+
+        arr[i] *= -1;
+        int left  = dfs(arr, i - arr[i]);
+        int right = dfs(arr, i + arr[i]);
+        return left || right;
+    }
+
     bool canReach(vector<int>& arr, int start) {
-        n=arr.size();
-        vector<bool>vis(n,false);
-        return solve(start,arr,vis);
+        n = arr.size();
+        return dfs(arr, start);
     }
 };
