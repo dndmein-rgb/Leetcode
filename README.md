@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dndmein-rgb/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dndmein-rgb/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/dndmein-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/dndmein-rgb/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dndmein-rgb/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dndmein-rgb/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dndmein-rgb/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/dndmein-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/dndmein-rgb/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/dndmein-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/dndmein-rgb/Leetcode/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dndmein-rgb/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dndmein-rgb/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dndmein-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dndmein-rgb/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/dndmein-rgb/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dndmein-rgb/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dndmein-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dndmein-rgb/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dndmein-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/dndmein-rgb/Leetcode/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/dndmein-rgb/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
