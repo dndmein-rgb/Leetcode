@@ -3,36 +3,36 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
-        int total=0,rotten=0,minutes=0;
+        int total=0,rotten=0;
         queue<pair<int,int>>q;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]!=0)total++;
-                if(grid[i][j]==2){
+                if(grid[i][j]==2)
                     q.push({i,j});
-                }
+                    if(grid[i][j]!=0)
+                total++;
             }
         }
-         int dx[4]={0,0,-1,1};
-            int dy[4]={1,-1,0,0};
+         int dx[4] = {0, 1, 0, -1};
+        int dy[4] = {1, 0, -1, 0};
+        int time=0;
         while(!q.empty()){
             int sz=q.size();
             rotten+=sz;
             for(int i=0;i<sz;i++){
                 auto[r,c]=q.front();
-            q.pop();
-           
-            for(int d=0;d<4;d++ ){
-                int nr=dx[d]+r;
-                int nc=dy[d]+c;
-                if(nr<0 ||nc<0 ||nr>=n||nc>=m || grid[nr][nc]!=1 )continue;
-                q.push({nr,nc});
-                grid[nr][nc]=2;
+                q.pop();
+                for(int k=0;k<4;k++){
+                    int nx=r+dx[k];
+                    int ny=c+dy[k];
+                    if(nx>=0 && nx<n && ny>=0 && ny<m && grid[nx][ny]==1){
+                            grid[nx][ny]=2;
+                            q.push({nx,ny});
+                    }
+                }
             }
-            }
-            if(!q.empty())minutes++;
-
+            if(!q.empty())time++;
         }
-        return total==rotten?minutes:-1;
+        return total==rotten ?time : -1;
     }
 };
