@@ -1,13 +1,7 @@
 class Solution {
 public:
-int digitSum(int x){
-    int sum=0;
-    while(x){
-        int digit=x%10;
-        sum+=digit;
-        x/=10;
-    }
-    return sum;
+int digitSum(int n){
+   return (n/10000)+(n%10000/1000)+(n%1000/100)+(n%100/10)+n%10;
 }
     int minElement(vector<int>& nums) {
         int mini=1e9;
