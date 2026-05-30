@@ -1,44 +1,56 @@
-class Solution {
+class DSU {
 public:
     vector<int> parent, rank;
+
+    DSU(int n) {
+        parent.resize(n);
+        rank.resize(n, 0);
+
+        for (int i = 0; i < n; i++)
+            parent[i] = i;
+    }
+
     int find(int x) {
-        if (x == parent[x])
+        if (parent[x] == x)
             return x;
+
         return parent[x] = find(parent[x]);
     }
-    void Union(int x, int y) {
-        int x_parent = parent[x];
-        int y_parent = parent[y];
-        if (x_parent == y_parent)
+
+    void UNION(int x, int y) {
+        int px = find(x);
+        int py = find(y);
+
+        if (px == py)
             return;
-        if (rank[x_parent] > rank[y_parent]) {
-            parent[y_parent] = x_parent;
-        } else if (rank[y_parent] > rank[x_parent]) {
-            parent[x_parent] = y_parent;
-        } else {
-            parent[x_parent] = y_parent;
-            rank[y_parent]++;
+
+        if (rank[px] < rank[py]) {
+            parent[px] = py;
+        }
+        else if (rank[px] > rank[py]) {
+            parent[py] = px;
+        }
+        else {
+            parent[py] = px;
+            rank[px]++;
         }
     }
+};
+class Solution {
+public:
     bool equationsPossible(vector<string>& equations) {
-        parent.resize(26);
-        rank.resize(26);
-        for(int i=0;i<26;i++){
-            parent[i]=i;
-            rank[i]=1;
-        }
-         for(string &s : equations) {
-            if(s[1] == '=')
-                Union(s[0]-'a', s[3]-'a');
-        }
-        
-        for(string &s : equations) {
-            if(s[1] == '!') {
-                if(find(s[0]-'a') == find(s[3]-'a'))
-                    return false;
+        DSU dsu(256);
+        for(auto& e:equations){
+            if(e[1]=='='){
+                    dsu.UNION(e[0],e[3]);
             }
         }
-        
+         for(auto& e:equations){
+            if(e[1]=='!'){
+                    if(dsu.find(e[0])==dsu.find(e[3]))return false;
+            }
+
+        }
         return true;
     }
 };
