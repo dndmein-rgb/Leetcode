@@ -1,65 +1,85 @@
-typedef pair<int, int> P;
-class Solution {
+class DSU {
 public:
-    int minMST(vector<vector<P>>& adj, int V) {
-        priority_queue<P, vector<P>, greater<P>> pq;
-        pq.push({0, 0}); //weight, vertex}
-        
-        vector<bool> inMST(V, false);
-        int sum = 0;
- 
-        while(!pq.empty()) {
-            
-            auto p = pq.top();
-            pq.pop();
-            
-            int wt     = p.first;
-            int node   = p.second;
-            
-            if(inMST[node] == true)
-                continue;
-            
-            inMST[node] = true; //added to mst
-            sum += wt;
-            
-            for(auto &tmp : adj[node]) {
-                
-                int neighbor      = tmp.first;
-                int neighbor_wt   = tmp.second;
-                
-                if(inMST[neighbor] == false) {
-                    pq.push({neighbor_wt, neighbor});
-                }
- 
-            }
-        }
-        
-        return sum;
+    vector<int> parent, rank;
+
+    DSU(int n) {
+        parent.resize(n);
+        rank.resize(n, 0);
+
+        for (int i = 0; i < n; i++)
+            parent[i] = i;
     }
-    
-    
-    int minCostConnectPoints(vector<vector<int>>& points) {
-        int V = points.size();
-        
-        vector<vector<P>> adj(V);
-        
-        for(int i = 0; i < V; i++) {
-            for(int j = i+1; j<V; j++) {
-                int x1 = points[i][0];
-                int y1 = points[i][1];
-                
-                int x2 = points[j][0];
-                int y2 = points[j][1];
-                
-                int d = abs(x1-x2) + abs(y1-y2);
-                
-                adj[i].push_back({j, d});
-                adj[j].push_back({i, d});
-            }
-        }
-        
-        return minMST(adj, V);
-        
+
+    int find(int x) {
+        if (parent[x] == x)
+            return x;
+
+        return parent[x] = find(parent[x]);
+    }
+
+    bool UNION(int u, int v) {
+
+        int pu = find(u);
+        int pv = find(v);
+
+        if (pu == pv)
+            return false;
+
+        if (rank[pu] < rank[pv])
+            swap(pu, pv);
+
+        parent[pv] = pu;
+
+        if (rank[pu] == rank[pv])
+            rank[pu]++;
+
+        return true;
     }
 };
 
+class Solution {
+public:
+    int minCostConnectPoints(vector<vector<int>>& points) {
+
+        int n = points.size();
+
+        vector<vector<int>> edges;
+
+        for (int i = 0; i < n; i++) {
+
+            for (int j = i + 1; j < n; j++) {
+
+                int cost =
+                    abs(points[i][0] - points[j][0]) +
+                    abs(points[i][1] - points[j][1]);
+
+                edges.push_back({cost, i, j});
+            }
+        }
+
+        sort(edges.begin(), edges.end());
+
+        DSU dsu(n);
+
+        int mstCost = 0;
+        int edgesUsed = 0;
+
+        for (auto &e : edges) {
+
+            int cost = e[0];
+            int u = e[1];
+            int v = e[2];
+
+            if (dsu.UNION(u, v)) {
+
+                mstCost += cost;
+                edgesUsed++;
+
+                if (edgesUsed == n - 1)
+                    break;
+            }
+        }
+
+        return mstCost;
+    }
+};
