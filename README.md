@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dndmein-rgb/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dndmein-rgb/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/dndmein-rgb/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dndmein-rgb/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/dndmein-rgb/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dndmein-rgb/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dndmein-rgb/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dndmein-rgb/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dndmein-rgb/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/dndmein-rgb/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/dndmein-rgb/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2573-find-the-string-with-lcp](https://github.com/dndmein-rgb/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2938-separate-black-and-white-balls](https://github.com/dndmein-rgb/Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dndmein-rgb/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/dndmein-rgb/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/dndmein-rgb/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/dndmein-rgb/Leetcode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/dndmein-rgb/Leetcode/tree/master/2784-check-if-array-is-good) |
