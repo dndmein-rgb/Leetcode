@@ -6,7 +6,7 @@ public:
         for(int &asteroid : asteroids) {
             if(mass < asteroid)
                 return false;
-            else if(mass >= 1e5)
+             if(mass >= 1e5)
                 return true;
 
             mass += asteroid;
