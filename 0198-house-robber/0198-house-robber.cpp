@@ -1,22 +1,16 @@
 class Solution {
 public:
-    int t[101];
-    int n;
-    int f(int i, vector<int>& nums) {
-
-        if (i >= n)
-            return 0;
-
-        if (t[i] != -1)
-            return t[i];
-
-        int take = nums[i] + f(i + 2, nums);
-        int notTake = f(i + 1, nums);
-        return t[i] =max(take, notTake);
-    }
     int rob(vector<int>& nums) {
-        n = nums.size();
-        memset(t, -1, sizeof(t));
-        return f(0, nums);
+        int n=nums.size();
+        if(n==1)return nums[0];
+        vector<int>t(n+1);
+        t[0]=0;
+        t[1]=nums[0];
+        for(int i=2;i<=n;i++){
+            int steal=t[i-2]+nums[i-1];
+            int notSteal=t[i-1];
+    t[i]=max(steal,notSteal);
+        }
+        return t[n];
     }
 };
