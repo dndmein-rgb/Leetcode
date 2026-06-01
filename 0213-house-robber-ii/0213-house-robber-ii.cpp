@@ -1,26 +1,33 @@
 class Solution {
 public:
-   int t[101];
-    int f(int i, vector<int>& nums,int n) {
-
-        if (i > n)
-            return 0;
-
-        if (t[i] != -1)
-            return t[i];
-
-        int take = nums[i] + f(i + 2, nums,n);
-        int notTake = f(i + 1, nums,n);
-        return t[i] =max(take, notTake);
-    }
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        if(n==1)return nums[0];
-        memset(t,-1,sizeof(t));
-        int try1=f(0,nums,n-2);
-        memset(t,-1,sizeof(t));
-        int try2=f(1,nums,n-1);
+        int n = nums.size();
+         if(n == 1)
+            return nums[0];
+        vector<int> t(n + 1);
+        t[0] = 0, t[1] = nums[0];
+        int result1 = 0, result2 = 0;
 
-        return max(try1,try2);
+        //first house start
+        for (int i = 2; i <= n - 1; i++) {
+            int steal = t[i - 2] + nums[i - 1];
+            int notSteal = t[i - 1];
+            t[i] = max(steal, notSteal);
+        }
+        result1 = t[n - 1];
+
+
+        //2nd house start
+        t.clear();
+        t[0] = 0;
+        t[1] = 0;
+        for (int i = 2; i <= n; i++) {
+            int steal = t[i - 2] + nums[i - 1];
+            int notSteal = t[i - 1];
+            t[i] = max(steal, notSteal);
+        }
+        result2 = t[n];
+
+        return max(result1, result2);
     }
 };
