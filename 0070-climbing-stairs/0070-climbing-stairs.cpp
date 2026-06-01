@@ -1,15 +1,14 @@
 class Solution {
 public:
-int t[46];
-int climb(int i,int n){
-    if(i==n)return 1;
-    if(i>n)return 0;
-    if(t[i]!=-1)return t[i];
-
-    return t[i]=climb(i+1,n)+climb(i+2,n);
-}
     int climbStairs(int n) {
-        memset(t,-1,sizeof(t));
-        return climb(0,n);
+        if(n<=3)return n;
+        int a=1,b=2,c=3;
+        for(int i=3;i<=n;i++){
+            c=a+b;
+            int temp_b=b;
+            b=c;
+            a=temp_b;
+        }
+        return c;
     }
 };
