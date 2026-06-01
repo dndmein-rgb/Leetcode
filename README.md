@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/dndmein-rgb/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dndmein-rgb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dndmein-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dndmein-rgb/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dndmein-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/dndmein-rgb/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -955,4 +957,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/dndmein-rgb/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dndmein-rgb/Leetcode/tree/master/0853-car-fleet) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
