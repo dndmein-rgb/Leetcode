@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dndmein-rgb/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/dndmein-rgb/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/dndmein-rgb/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/dndmein-rgb/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/dndmein-rgb/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dndmein-rgb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
