@@ -1,23 +1,20 @@
 class Solution {
 public:
-int n;
-    int expand(int i,int j,string&s){
-        int count=0;
-        while(i>=0 && j<n  && s[i]==s[j]){
-            i--;
-            j++;
-            count++;
+    int countSubstrings(string s) {
+        int n=s.length();
+        vector<vector<bool>>t(n,vector<bool>(n,false));
+    int count=0;
+        for(int L=1;L<=n;L++){
+            for(int i=0;i+L<=n;i++){
+                int j=i+L-1;
+                if(i==j)t[i][j]=true;
+                else if(i+1==j && s[i]==s[j])t[i][j]=true;
+                else{
+                    t[i][j]=(s[i]==s[j] && t[i+1][j-1]);
+                }
+            count+=t[i][j];
+            }
         }
         return count;
-    }
-
-    int countSubstrings(string s) {
-         n=s.length();
-        int ans=0;
-        for(int i=0;i<n;i++){
-            ans+=expand(i,i,s);
-            ans+=expand(i,i+1,s);
-        }
-        return ans;
     }
 };
