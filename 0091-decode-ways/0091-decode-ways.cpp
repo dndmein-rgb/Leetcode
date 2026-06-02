@@ -3,9 +3,9 @@ public:
 int n;
 int t[101];
 int solve(int i,string &s){
-    if(i==n)return t[i]=1;
+    if(i==n)return 1;
     if(t[i]!=-1)return t[i];
-    if(s[i]=='0')return t[i]=0;
+    if(s[i]=='0')return 0;
 
     int ways=solve(i+1,s);
     if(i+1<n){
