@@ -3,8 +3,8 @@ public:
 int n;
 int t[101];
 int solve(int i,string &s){
-    if(t[i]!=-1)return t[i];
     if(i==n)return t[i]=1;
+    if(t[i]!=-1)return t[i];
     if(s[i]=='0')return t[i]=0;
 
     int ways=solve(i+1,s);
