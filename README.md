@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/dndmein-rgb/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dndmein-rgb/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/dndmein-rgb/Leetcode/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dndmein-rgb/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0647-palindromic-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dndmein-rgb/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dndmein-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/dndmein-rgb/Leetcode/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dndmein-rgb/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/dndmein-rgb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/dndmein-rgb/Leetcode/tree/master/0704-binary-search) |
