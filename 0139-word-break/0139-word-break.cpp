@@ -1,24 +1,19 @@
 class Solution {
 public:
-unordered_set<string>st;
-int t[1001];
-int n;
-bool solve(int i,vector<string>&wordDict,string&s){
-    if(i==n)return true;
-    if(t[i]!=-1)return t[i];
-    string curr="";
-    for(int j=i;j<n;j++){
-        curr.push_back(s[j]);
-        if(st.count(curr)){
-            if(solve(j+1,wordDict,s))return t[i]=true;
-        }
-    }
-    return t[i]=false;
-}
     bool wordBreak(string s, vector<string>& wordDict) {
-        n=s.length();
-        st.insert(wordDict.begin(),wordDict.end());
-        memset(t,-1,sizeof(t));
-        return solve(0,wordDict,s);
+        int n=s.length();
+        unordered_set<string> st(begin(wordDict), end(wordDict));
+        vector<bool>dp(n+1,false);
+        dp[0]=true;
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<i;j++){
+                string temp=s.substr(j,i-j);
+                if(dp[j] && st.count(temp)){
+                    dp[i]=true;
+                    break;
+                }
+            }
+        }
+            return dp[n];
     }
 };
