@@ -1,6 +1,6 @@
 class Solution {
 public:
-int t[201][20001];
+int t[201][10001];
 int n;
     bool solve(int i,int target,vector<int>&nums){
         if(target==0)return true;
