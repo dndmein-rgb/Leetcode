@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/dndmein-rgb/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/dndmein-rgb/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/dndmein-rgb/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dndmein-rgb/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/dndmein-rgb/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/dndmein-rgb/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dndmein-rgb/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dndmein-rgb/Leetcode/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/dndmein-rgb/Leetcode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Recursion
