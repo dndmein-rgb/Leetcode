@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/dndmein-rgb/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/dndmein-rgb/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Tree
 |  |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dndmein-rgb/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
