@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-house-robber-v](https://github.com/dndmein-rgb/Leetcode/tree/master/3840-house-robber-v) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/dndmein-rgb/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/dndmein-rgb/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/dndmein-rgb/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/dndmein-rgb/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/dndmein-rgb/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
