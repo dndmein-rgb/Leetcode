@@ -1,62 +1,60 @@
 class Solution {
 public:
     int n;
-    vector<int> price, val;
-    vector<vector<int>> dp;
+    vector<int> cnt;
+    int dp[1001][1501][2];
 
-    int solve(int i, int budget) {
+    int helper(int i, int budget, int taken,
+               vector<vector<int>>& items) {
+
         if (i == n) return 0;
 
-        if (dp[i][budget] != -1)
-            return dp[i][budget];
+        int &ans = dp[i][budget][taken];
+        if (ans != -1) return ans;
 
-        int ans = solve(i + 1, budget);
+        ans = 0;
 
-        // first purchase of item i
-        if (budget >= price[i]) {
-            ans = max(ans,
-                      val[i] +
-                      solve(i + 1, budget - price[i]));
-        }
+        int price = items[i][1];
 
-        return dp[i][budget] = ans;
-    }
+        if (taken == 0) {
 
-    int maximumSaleItems(vector<vector<int>>& items, int budget) {
-        n = items.size();
+            ans = helper(i + 1, budget, 0, items);
 
-        price.resize(n);
-        val.resize(n);
-
-        int mnPrice = INT_MAX;
-
-        for (int i = 0; i < n; i++) {
-            price[i] = items[i][1];
-            mnPrice = min(mnPrice, price[i]);
-
-            int freebies = 0;
-            for (int j = 0; j < n; j++) {
-                if (i != j &&
-                    items[j][0] % items[i][0] == 0)
-                    freebies++;
+            if (budget >= price) {
+                ans = max(ans,
+                          1 + cnt[i] +
+                          helper(i, budget - price, 1, items));
             }
-
-            val[i] = freebies + 1;
         }
+        else {
 
-        dp.assign(n, vector<int>(budget + 1, -1));
+            ans = helper(i + 1, budget, 0, items);
 
-        int ans = 0;
-
-        for (int spent = 0; spent <= budget; spent++) {
-            int cur = solve(0, spent);
-
-            // spend remaining money on cheapest item
-            cur += (budget - spent) / mnPrice;
-
-            ans = max(ans, cur);
+            if (budget >= price) {
+                ans = max(ans,
+                          1 +
+                          helper(i, budget - price, 1, items));
+            }
         }
 
         return ans;
+    }
+
+    int maximumSaleItems(vector<vector<int>>& items, int budget) {
+
+        n = items.size();
+        cnt.assign(n, 0);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i != j &&
+                    items[j][0] % items[i][0] == 0)
+                    cnt[i]++;
+            }
+        }
+
+        memset(dp, -1, sizeof(dp));
+
+        return helper(0, budget, 0, items);
     }
 };
