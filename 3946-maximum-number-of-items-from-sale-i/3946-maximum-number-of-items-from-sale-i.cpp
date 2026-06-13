@@ -2,7 +2,7 @@ class Solution {
 public:
 int n;
 vector<int>cnt;
-int dp[1501][1501][2];
+int dp[1001][1501][2];
 int solve(int i,vector<vector<int>>& items, int budget,int taken){
     if(i==n)return 0;
     if(dp[i][budget][taken]!=-1)return dp[i][budget][taken];
