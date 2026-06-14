@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-vowel-consonant-score](https://github.com/dndmein-rgb/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/dndmein-rgb/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/dndmein-rgb/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/dndmein-rgb/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/dndmein-rgb/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/dndmein-rgb/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Array
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/dndmein-rgb/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Matrix
 |  |
 | ------- |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/dndmein-rgb/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/dndmein-rgb/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/dndmein-rgb/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Enumeration
 |  |
 | ------- |
