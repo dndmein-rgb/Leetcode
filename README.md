@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-vowel-consonant-score](https://github.com/dndmein-rgb/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/dndmein-rgb/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/dndmein-rgb/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/dndmein-rgb/Leetcode/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/dndmein-rgb/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Dynamic Programming
 |  |
