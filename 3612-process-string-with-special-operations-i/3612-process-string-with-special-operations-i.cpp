@@ -4,7 +4,7 @@ public:
         string result;
         for(char c:s){
             if(c=='#'){
-                result=result+result;
+                result+=result;
             }
             else if(c=='%'){
                 reverse(result.begin(),result.end());
