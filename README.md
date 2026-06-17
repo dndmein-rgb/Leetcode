@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dndmein-rgb/Leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3612-process-string-with-special-operations-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/dndmein-rgb/Leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3713-longest-balanced-substring-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/dndmein-rgb/Leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3813-vowel-consonant-score](https://github.com/dndmein-rgb/Leetcode/tree/master/3813-vowel-consonant-score) |
