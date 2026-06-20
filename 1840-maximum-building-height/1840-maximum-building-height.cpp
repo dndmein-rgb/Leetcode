@@ -43,7 +43,7 @@ public:
 
             long long d = x2 - x1;
 
-            ans = max(ans,(int)(max(h1, h2) + (d - abs(h1 - h2)) / 2));
+             ans = max(ans, (int)((h1 + h2 + d) / 2));
         }
 
         return ans;
