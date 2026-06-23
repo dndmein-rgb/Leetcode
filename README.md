@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/dndmein-rgb/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dndmein-rgb/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/dndmein-rgb/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/dndmein-rgb/Leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3698-split-array-with-minimum-difference](https://github.com/dndmein-rgb/Leetcode/tree/master/3698-split-array-with-minimum-difference) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
 | [3714-longest-balanced-substring-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
