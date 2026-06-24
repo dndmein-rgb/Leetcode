@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dndmein-rgb/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
