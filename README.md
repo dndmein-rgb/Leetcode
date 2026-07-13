@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/1291-sequential-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/dndmein-rgb/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dndmein-rgb/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
