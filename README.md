@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/dndmein-rgb/Leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3838-weighted-word-mapping](https://github.com/dndmein-rgb/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3840-house-robber-v](https://github.com/dndmein-rgb/Leetcode/tree/master/3840-house-robber-v) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/dndmein-rgb/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/dndmein-rgb/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3679-minimum-discards-to-balance-inventory](https://github.com/dndmein-rgb/Leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3813-vowel-consonant-score](https://github.com/dndmein-rgb/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/dndmein-rgb/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/dndmein-rgb/Leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/dndmein-rgb/Leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3814-maximum-capacity-within-budget](https://github.com/dndmein-rgb/Leetcode/tree/master/3814-maximum-capacity-within-budget) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-smallest-all-ones-multiple](https://github.com/dndmein-rgb/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 | [3805-count-caesar-cipher-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/dndmein-rgb/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/dndmein-rgb/Leetcode/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Counting
@@ -1075,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dndmein-rgb/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
