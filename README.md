@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dndmein-rgb/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/dndmein-rgb/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/dndmein-rgb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dndmein-rgb/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0647-palindromic-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/dndmein-rgb/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/dndmein-rgb/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dndmein-rgb/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/dndmein-rgb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/dndmein-rgb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/dndmein-rgb/Leetcode/tree/master/0704-binary-search) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dndmein-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/dndmein-rgb/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0396-rotate-function](https://github.com/dndmein-rgb/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/dndmein-rgb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dndmein-rgb/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/0788-rotated-digits) |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/dndmein-rgb/Leetcode/tree/master/0486-predict-the-winner) |
 | [3828-final-element-after-subarray-deletions](https://github.com/dndmein-rgb/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Number Theory
 |  |
@@ -1139,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/dndmein-rgb/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/dndmein-rgb/Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dndmein-rgb/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Monotonic Queue
 |  |
