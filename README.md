@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dndmein-rgb/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/dndmein-rgb/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/dndmein-rgb/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dndmein-rgb/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dndmein-rgb/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/dndmein-rgb/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dndmein-rgb/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -982,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dndmein-rgb/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dndmein-rgb/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/dndmein-rgb/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/dndmein-rgb/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/dndmein-rgb/Leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
