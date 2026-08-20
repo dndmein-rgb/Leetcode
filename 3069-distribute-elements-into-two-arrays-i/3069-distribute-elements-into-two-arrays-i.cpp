@@ -8,8 +8,9 @@ public:
             if(ans1.back()>ans2.back())ans1.push_back(nums[i]);
             else ans2.push_back(nums[i]);
         }
-        vector<int> result=ans1;
-result.insert(result.end(),ans2.begin(),ans2.end());
-        return result;
+for(int i=0;i<ans2.size();i++){
+            ans1.push_back(ans2[i]);
+        }
+        return ans1;
     }
 };
