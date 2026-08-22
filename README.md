@@ -1088,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dndmein-rgb/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3649-number-of-perfect-pairs](https://github.com/dndmein-rgb/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dndmein-rgb/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
