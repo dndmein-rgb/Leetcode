@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3698-split-array-with-minimum-difference](https://github.com/dndmein-rgb/Leetcode/tree/master/3698-split-array-with-minimum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dndmein-rgb/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3709-design-exam-scores-tracker](https://github.com/dndmein-rgb/Leetcode/tree/master/3709-design-exam-scores-tracker) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dndmein-rgb/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3724-minimum-operations-to-transform-array](https://github.com/dndmein-rgb/Leetcode/tree/master/3724-minimum-operations-to-transform-array) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/dndmein-rgb/Leetcode/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 | [3713-longest-balanced-substring-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dndmein-rgb/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
