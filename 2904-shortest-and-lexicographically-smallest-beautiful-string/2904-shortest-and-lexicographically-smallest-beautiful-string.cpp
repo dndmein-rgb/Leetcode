@@ -1,40 +1,36 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
-        int n = s.length();
+        int n = s.size();
+        int left = 0;
+        int ones = 0;
 
-        vector<int> pref(n + 1);
-        int count = 0;
+        string ans = "";
 
-        for (int i = 0; i < n; i++) {
-            if (s[i] == '1')
-                count++;
+        for (int right = 0; right < n; right++) {
+            if (s[right] == '1')
+                ones++;
 
-            pref[i + 1] = count;
-        }
+            while (ones > k) {
+                if (s[left] == '1')
+                    ones--;
+                left++;
+            }
 
-        vector<string> ans;
+            if (ones == k) {
+                while (s[left] == '0')
+                    left++;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
+                string curr = s.substr(left, right - left + 1);
 
-                if (pref[j + 1] - pref[i] == k) {
-                    string sub = s.substr(i, j - i + 1);
-                    ans.push_back(sub);
+                if (ans.empty() ||
+                    curr.size() < ans.size() ||
+                    (curr.size() == ans.size() && curr < ans)) {
+                    ans = curr;
                 }
             }
         }
 
-        if (ans.empty())
-            return "";
-
-        sort(ans.begin(), ans.end(), [](const string& a, const string& b) {
-            if (a.length() != b.length())
-                return a.length() < b.length();
-
-            return a < b;
-        });
-
-        return ans[0];
+        return ans;
     }
 };
