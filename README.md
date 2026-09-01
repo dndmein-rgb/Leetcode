@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/dndmein-rgb/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dndmein-rgb/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/dndmein-rgb/Leetcode/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/dndmein-rgb/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dndmein-rgb/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dndmein-rgb/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dndmein-rgb/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dndmein-rgb/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dndmein-rgb/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/dndmein-rgb/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dndmein-rgb/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dndmein-rgb/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dndmein-rgb/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/dndmein-rgb/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/dndmein-rgb/Leetcode/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dndmein-rgb/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3607-power-grid-maintenance](https://github.com/dndmein-rgb/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dndmein-rgb/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/dndmein-rgb/Leetcode/tree/master/3679-minimum-discards-to-balance-inventory) |
