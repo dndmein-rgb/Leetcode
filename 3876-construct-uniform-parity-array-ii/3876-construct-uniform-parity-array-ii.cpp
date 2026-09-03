@@ -1,13 +1,22 @@
 class Solution {
 public:
-    bool uniformArray(vector<int>& nums1) {
-        int mn=nums1[0];
-        bool oddPresent=false;
-        for(int x:nums1){
-            if(x<mn)mn=x;
-            if(x%2!=0)oddPresent=true;
+    bool uniformArray(vector<int>& nums) {
+        int minOdd = INT_MAX;
+        int minEven = INT_MAX;
+
+        for (int x : nums) {
+            if (x % 2 == 0)
+                minEven = min(minEven, x);
+            else
+                minOdd = min(minOdd, x);
         }
-        if(mn %2==0 && oddPresent)return false;
-        return true;
+
+        if (minOdd == INT_MAX)
+            return true;
+
+        if (minEven == INT_MAX)
+            return true;
+
+        return minOdd < minEven;
     }
 };
