@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/dndmein-rgb/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dndmein-rgb/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/dndmein-rgb/Leetcode/tree/master/3885-design-event-manager) |
+| [3903-smallest-stable-index-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/dndmein-rgb/Leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/dndmein-rgb/Leetcode/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/dndmein-rgb/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3903-smallest-stable-index-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/dndmein-rgb/Leetcode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Depth-First Search
 |  |
