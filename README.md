@@ -1095,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dndmein-rgb/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/dndmein-rgb/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/dndmein-rgb/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dndmein-rgb/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1242,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/dndmein-rgb/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/dndmein-rgb/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bucket Sort
 |  |
