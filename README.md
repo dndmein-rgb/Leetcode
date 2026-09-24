@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dndmein-rgb/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/dndmein-rgb/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dndmein-rgb/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dndmein-rgb/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dndmein-rgb/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dndmein-rgb/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/dndmein-rgb/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dndmein-rgb/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
