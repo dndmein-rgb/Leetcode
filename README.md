@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dndmein-rgb/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0486-predict-the-winner](https://github.com/dndmein-rgb/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dndmein-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/dndmein-rgb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/dndmein-rgb/Leetcode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/dndmein-rgb/Leetcode/tree/master/0721-accounts-merge) |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dndmein-rgb/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dndmein-rgb/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dndmein-rgb/Leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/dndmein-rgb/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dndmein-rgb/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/dndmein-rgb/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dndmein-rgb/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
