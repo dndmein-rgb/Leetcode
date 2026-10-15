@@ -18,6 +18,6 @@ bool dfs(TreeNode* root,long leftLimit,long rightLimit){
 }
     bool isValidBST(TreeNode* root) {
         if(!root)return true;
-     return dfs(root,LONG_MIN,LONG_MAX);
+     return dfs(root->left,LONG_MIN,root->val) && dfs(root->right,root->val,LONG_MAX);
     }
 };
