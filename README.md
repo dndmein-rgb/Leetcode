@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dndmein-rgb/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/dndmein-rgb/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dndmein-rgb/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dndmein-rgb/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/dndmein-rgb/Leetcode/tree/master/0091-decode-ways) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dndmein-rgb/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dndmein-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dndmein-rgb/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/dndmein-rgb/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/dndmein-rgb/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dndmein-rgb/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dndmein-rgb/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1085,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dndmein-rgb/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dndmein-rgb/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/dndmein-rgb/Leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/dndmein-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
