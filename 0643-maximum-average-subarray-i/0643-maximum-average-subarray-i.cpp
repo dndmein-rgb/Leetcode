@@ -2,9 +2,9 @@ class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
         int n=nums.size();
-        int i=0,j=0;
         double sum=0;
-        double maxSum=INT_MIN;
+        double maxSum=-1e9;
+        int i=0,j=0;
         while(j<n){
             sum+=nums[j];
             if(j-i+1>k){
@@ -12,11 +12,11 @@ public:
                 i++;
             }
             if(j-i+1==k){
-                maxSum=max(maxSum,sum);
+            maxSum=max(sum,maxSum);
             }
             j++;
+
         }
-        cout<<maxSum;
-        return maxSum/double(k);
+        return maxSum/k;
     }
 };
