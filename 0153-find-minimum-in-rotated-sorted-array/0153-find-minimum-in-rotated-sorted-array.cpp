@@ -6,14 +6,11 @@ public:
         int mini=INT_MAX;
         while(i<=j){
             int mid=i+(j-i)/2;
-            if(nums[mid]>=nums[j]){
-                mini=min(mini,nums[j]);
+            if(nums[mid]>=nums[i]){
+                mini=min(mini,nums[i]);
                 i=mid+1;
             }
-            else{
-                j=mid;
-            }
-
+            else j=mid;
         }
         return mini;
     }
