@@ -1,10 +1,9 @@
 class MyQueue {
 public:
-stack<int>input,output;
     MyQueue() {
         
     }
-    
+    stack<int>input,output;
     void push(int x) {
         input.push(x);
     }
@@ -22,18 +21,18 @@ stack<int>input,output;
     }
     
     int peek() {
-        if(output.empty()){
+       if(output.empty()){
             while(!input.empty()){
                 output.push(input.top());
                 input.pop();
             }
         }
         int front=output.top();
-        return front;
+        return front; 
     }
     
     bool empty() {
-        return input.empty()&&output.empty();
+        return input.empty() && output.empty();
     }
 };
 
