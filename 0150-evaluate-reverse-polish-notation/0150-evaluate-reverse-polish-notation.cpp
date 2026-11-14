@@ -2,20 +2,21 @@ class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
         stack<int>st;
-        int total=0;
-    for(string t:tokens){
-        if(t=="+"||t=="-"||t=="/"||t=="*"){
-            int a=st.top();
-            st.pop();
-            int b=st.top();
-            st.pop();
-            if(t=="+")st.push(b+a);
-            if(t=="-")st.push(b-a);
-            if(t=="*")st.push(b*a);
-            if(t=="/")st.push(b/a);
-
-        }else st.push(stoi(t));
-    }
-    return st.top();
+        for(auto& t:tokens){
+            if(t=="+"||t=="-"||t=="/"||t=="*"){
+                int a=st.top();
+                st.pop();
+                int b=st.top();
+                st.pop();
+                int result=0;
+                if(t=="+")result=b+a;
+                else if(t=="-")result=b-a;
+                else if(t=="*")result=b*a;
+                else result=b/a;
+                st.push(result);
+            }
+            else st.push(stoi(t));
+        }
+        return st.top();
     }
 };
