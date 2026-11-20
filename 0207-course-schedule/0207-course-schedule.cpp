@@ -3,13 +3,13 @@ public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         unordered_map<int,vector<int>>adj;
         vector<int>indegree(numCourses,0);
-        queue<int>q;
-        for(auto& p:prerequisites){
+        for(auto&p:prerequisites){
             int u=p[0];
             int v=p[1];
             adj[v].push_back(u);
             indegree[u]++;
         }
+        queue<int>q;
         for(int i=0;i<numCourses;i++){
             if(indegree[i]==0)q.push(i);
         }
