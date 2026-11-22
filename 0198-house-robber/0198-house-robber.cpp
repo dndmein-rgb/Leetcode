@@ -1,13 +1,15 @@
 class Solution {
 public:
-int t[101];
+int t[401];
 int n;
 int solve(int i,vector<int>&nums){
-    if(i>n-1)return 0;
+    if(i>=n)return 0;
     if(t[i]!=-1)return t[i];
+
     int take=nums[i]+solve(i+2,nums);
-    int skip=solve(i+1,nums);
-    return t[i]=max(take,skip);
+    int notTake=solve(i+1,nums);
+    return t[i]=max(take,notTake);
+
 }
     int rob(vector<int>& nums) {
         n=nums.size();
